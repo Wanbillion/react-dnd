@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@react-dnd/asap": "workspace:^",
-    "@react-dnd/invariant": "workspace:^",
+    "@react-dnd/invariant": "1.0.1",
     "redux": "^4.2.0"
   },
   "devDependencies": {
