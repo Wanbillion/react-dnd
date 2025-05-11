@@ -23,12 +23,12 @@
     "check": "eslint src --ext .js,.jsx,.mjs,.cjs,.ts,.tsx,.cts,.mts --resolve-plugins-relative-to ../eslint-config"
   },
   "dependencies": {
-    "dnd-core": "workspace:^",
+    "dnd-core": "0.0.1",
     "faker": "^5.5.3",
     "immutability-helper": "^3.1.1",
     "lodash": "^4.17.21",
-    "react-dnd": "workspace:^",
-    "react-dnd-html5-backend": "workspace:^",
+    "react-dnd": "0.0.0",
+    "react-dnd-html5-backend": "1.0.0",
     "react-frame-component": "^5.2.6"
   },
   "devDependencies": {
