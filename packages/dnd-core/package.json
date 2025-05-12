@@ -30,8 +30,8 @@
   },
   "dependencies": {
     "@react-dnd/asap": "workspace:^",
-    "@react-dnd/invariant": "workspace:^",
-    "redux": "^4.2.0"
+    "@react-dnd/invariant": "1.0.1",
+    "redux": "^5.0.0"
   },
   "devDependencies": {
     "@react-dnd/eslint-config": "workspace:^",
