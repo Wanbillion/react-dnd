@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@react-dnd/invariant": "workspace:^",
-    "dnd-core": "workspace:^"
+    "dnd-core": "0.0.1"
   },
   "devDependencies": {
     "@react-dnd/eslint-config": "workspace:^",
