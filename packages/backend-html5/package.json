@@ -29,7 +29,7 @@
     "release": "yarn npm publish --tolerate-republish --access public"
   },
   "dependencies": {
-    "dnd-core": "workspace:^"
+    "dnd-core": "0.0.1"
   },
   "devDependencies": {
     "@react-dnd/eslint-config": "workspace:^",
